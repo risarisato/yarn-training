@@ -1,0 +1,7 @@
+{
+  "name": "sum",
+  "version": "1.0.0",
+  "description": "合計を求めるライブラリー",
+  "main": "index.js",
+  "license": "MIT"
+}
